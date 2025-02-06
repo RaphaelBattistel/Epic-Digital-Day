@@ -1,0 +1,154 @@
+body{
+    background-color: #1b3657;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h3{
+    color: #fff700;
+    text-decoration: underline;
+    font-family: "Trirong", serif;
+}
+
+h3{
+    width: 100%;
+}
+
+
+
+header{
+    background-color:#314053 ;
+    padding: auto;
+    padding-bottom: 60px;
+    border: 1px solid gray;
+}
+
+footer{
+    float: left;
+    width: 100%;
+    color: white ;
+    background-color: #314053;
+}
+
+
+
+
+
+.logo{
+    float: left;
+}
+
+.logoEx{
+    float: left;
+    border: 5px solid #314053;
+}
+
+#titre{
+    padding-left: 40%;
+    color: white;
+    font-family: "Audiowide", sans-serif;
+}
+
+.video{
+    border: 1px solid gray;
+    float: right;
+    width: 40%;
+}
+
+.description{
+    float: left;
+    width: 45%;
+}
+.descriptionTxt{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.visual{
+    height: 400px;
+}
+
+
+
+
+
+
+.marketing{
+    float: left;
+    width: 100%;
+    padding-bottom: 3%;
+    border: 1px solid gray;
+}
+
+
+#titreMarket{
+    float: left;
+}
+
+#com{
+    height: 300px;
+    float: left;
+    border: 5px solid #314053;
+}
+
+.marketingTxt1{
+    float: left;
+    padding-left: 1%;
+    width: 45%;
+}
+
+.marketingTxt2{
+    float: right;
+    padding-right: 1%;
+    width: 45%;
+}
+
+.marketingTxt3{
+    float: left;
+    width: 100%;
+}
+
+
+
+
+
+
+.gameplay{
+    float: left;
+    border: 1px solid gray;
+}
+
+.donation{
+    float: left;
+    width: 100%;
+    border: 1px solid gray;
+    font-family: "Trirong", serif;
+}
+
+#grostext{
+    color: #fff700;
+    font-family: "Trirong", serif;
+    text-decoration: underline;
+}
+
+.goals{
+    padding-left: 5%;
+    padding-bottom: 10%;
+}
+
+
+
+
+
+.contact{
+    float: right;
+    width: 90%;
+    font-family: "Trirong", serif;
+}
+
+th,td{
+    border: 3px solid white;
+    text-align: center;
+    padding: 10px;
+}
